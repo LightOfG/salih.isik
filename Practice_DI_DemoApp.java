@@ -24,7 +24,7 @@ public class Practice_DI_DemoApp {
 					//close the context
 					context.close();
 					
-					//Thanks to luv2code!
+					
 					
 		
 	}
